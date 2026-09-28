@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Рыжая панда Финни">
+  <rect width="512" height="512" rx="112" fill="#e7f6ec"/>
+  <circle cx="146" cy="156" r="72" fill="#c9512f"/>
+  <circle cx="366" cy="156" r="72" fill="#c9512f"/>
+  <circle cx="146" cy="156" r="38" fill="#f6b59a"/>
+  <circle cx="366" cy="156" r="38" fill="#f6b59a"/>
+  <ellipse cx="256" cy="274" rx="168" ry="156" fill="#f47b45"/>
+  <ellipse cx="184" cy="266" rx="65" ry="80" fill="#fff4eb" transform="rotate(18 184 266)"/>
+  <ellipse cx="328" cy="266" rx="65" ry="80" fill="#fff4eb" transform="rotate(-18 328 266)"/>
+  <ellipse cx="185" cy="253" rx="34" ry="48" fill="#2c2928" transform="rotate(16 185 253)"/>
+  <ellipse cx="327" cy="253" rx="34" ry="48" fill="#2c2928" transform="rotate(-16 327 253)"/>
+  <circle cx="191" cy="246" r="10" fill="#fff"/>
+  <circle cx="321" cy="246" r="10" fill="#fff"/>
+  <ellipse cx="256" cy="326" rx="66" ry="52" fill="#fff8f2"/>
+  <ellipse cx="256" cy="307" rx="18" ry="13" fill="#2c2928"/>
+  <path d="M232 337q24 26 48 0" fill="none" stroke="#2c2928" stroke-width="10" stroke-linecap="round"/>
+  <path d="M115 420q141 74 282 0" fill="none" stroke="#2f8f62" stroke-width="28" stroke-linecap="round"/>
+</svg>

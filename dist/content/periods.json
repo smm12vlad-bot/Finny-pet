@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "title": "Бюджет без путаницы",
+    "stage": "Основы",
+    "learningGoal": "Бюджет помогает заранее решить, на что направить деньги, и не потратить больше, чем есть.",
+    "income": 120,
+    "incomeSource": "стартовые игровые карманные деньги",
+    "event": "Познакомься с бюджетом и сделай первые осознанные действия.",
+    "objectives": [
+      {
+        "id": "period-theory",
+        "type": "theory",
+        "blockIds": [
+          "budget"
+        ],
+        "label": "Изучить теорию текущего периода"
+      },
+      {
+        "id": "period-tests",
+        "type": "tests",
+        "testIds": [
+          "budget_theory",
+          "budget_practice",
+          "budget_hard"
+        ],
+        "label": "Сдать базовый, практический и сложный тесты периода"
+      },
+      {
+        "id": "plan",
+        "type": "plan",
+        "label": "Составить и подтвердить бюджет"
+      },
+      {
+        "id": "essential",
+        "type": "purchase",
+        "category": "essential",
+        "count": 1,
+        "label": "Сделать 1 обязательную покупку"
+      },
+      {
+        "id": "deposit",
+        "type": "deposit",
+        "amount": 10,
+        "label": "Отложить не меньше 10 бамбунчинок"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Накопления и цель",
+    "stage": "Расчёты",
+    "learningGoal": "Накопления превращают большую цель в несколько небольших и понятных шагов.",
+    "income": 130,
+    "incomeSource": "плановые игровые карманные деньги",
+    "event": "Сравни обязательные и желаемые покупки, не забывая о цели.",
+    "objectives": [
+      {
+        "id": "period-theory",
+        "type": "theory",
+        "blockIds": [
+          "savings"
+        ],
+        "label": "Изучить теорию текущего периода"
+      },
+      {
+        "id": "period-tests",
+        "type": "tests",
+        "testIds": [
+          "savings_theory",
+          "savings_practice",
+          "savings_hard"
+        ],
+        "label": "Сдать базовый, практический и сложный тесты периода"
+      },
+      {
+        "id": "plan",
+        "type": "plan",
+        "label": "Составить новый бюджет"
+      },
+      {
+        "id": "essential",
+        "type": "purchase",
+        "category": "essential",
+        "count": 1,
+        "label": "Сделать 1 обязательную покупку"
+      },
+      {
+        "id": "optional",
+        "type": "purchase",
+        "category": "optional",
+        "count": 1,
+        "label": "Сделать 1 желаемую покупку"
+      },
+      {
+        "id": "deposit",
+        "type": "deposit",
+        "amount": 20,
+        "label": "Отложить не меньше 20 бамбунчинок"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Дом: потребности и бытовые расходы",
+    "stage": "Выбор стратегии",
+    "learningGoal": "Финни подрос: теперь в его бюджете есть продукты, гигиена и забота о доме. Все цены в игре условные.",
+    "income": 140,
+    "incomeSource": "игровая награда за полезные дела",
+    "event": "Решения становятся сложнее: теперь важно сравнивать несколько вариантов.",
+    "objectives": [
+      {
+        "id": "period-theory",
+        "type": "theory",
+        "blockIds": [
+          "household"
+        ],
+        "label": "Изучить теорию текущего периода"
+      },
+      {
+        "id": "period-tests",
+        "type": "tests",
+        "testIds": [
+          "household_theory",
+          "household_practice",
+          "household_hard"
+        ],
+        "label": "Сдать базовый, практический и сложный тесты периода"
+      },
+      {
+        "id": "plan",
+        "type": "plan",
+        "label": "Составить бюджет для сложных решений"
+      },
+      {
+        "id": "essential",
+        "type": "purchase",
+        "category": "essential",
+        "count": 1,
+        "label": "Сделать обязательную покупку"
+      },
+      {
+        "id": "optional",
+        "type": "purchase",
+        "category": "optional",
+        "count": 1,
+        "label": "Сделать желаемую покупку"
+      },
+      {
+        "id": "deposit",
+        "type": "deposit",
+        "amount": 25,
+        "label": "Отложить не меньше 25 бамбунчинок"
+      },
+      {
+        "id": "household",
+        "type": "purchase",
+        "category": "essential",
+        "itemId": "home_supplies",
+        "count": 1,
+        "label": "Купить набор для бытовых нужд"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Свет, вода и коммунальный бюджет",
+    "stage": "Многошаговые решения",
+    "learningGoal": "Свет и вода — регулярные нужды дома. Учимся планировать условные счета вместе со взрослым. Игровые тарифы не являются реальными.",
+    "income": 150,
+    "incomeSource": "плановый игровой доход периода",
+    "event": "Одного действия уже недостаточно: считай срок, остаток и стоимость единицы.",
+    "objectives": [
+      {
+        "id": "period-theory",
+        "type": "theory",
+        "blockIds": [
+          "utilities"
+        ],
+        "label": "Изучить теорию текущего периода"
+      },
+      {
+        "id": "period-tests",
+        "type": "tests",
+        "testIds": [
+          "utilities_theory",
+          "utilities_practice",
+          "utilities_hard"
+        ],
+        "label": "Сдать базовый, практический и сложный тесты периода"
+      },
+      {
+        "id": "plan",
+        "type": "plan",
+        "label": "Составить подробный бюджет"
+      },
+      {
+        "id": "essential",
+        "type": "purchase",
+        "category": "essential",
+        "count": 2,
+        "label": "Сделать 2 обязательные покупки"
+      },
+      {
+        "id": "optional",
+        "type": "purchase",
+        "category": "optional",
+        "count": 1,
+        "label": "Сделать 1 желаемую покупку"
+      },
+      {
+        "id": "deposit",
+        "type": "deposit",
+        "amount": 30,
+        "label": "Отложить не меньше 30 бамбунчинок"
+      },
+      {
+        "id": "household",
+        "type": "purchase",
+        "category": "essential",
+        "itemId": "home_supplies",
+        "count": 1,
+        "label": "Купить набор для бытовых нужд"
+      },
+      {
+        "id": "utilities",
+        "type": "purchase",
+        "category": "essential",
+        "itemId": "utility_bill",
+        "count": 1,
+        "label": "Оплатить игровой счёт за свет и воду"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Семейный бюджет: покупки, счета и резерв",
+    "stage": "Итоговое испытание",
+    "learningGoal": "Финни стал старше. Объедини выбор покупок, бытовые нужды, коммунальные счета и накопления в одном плане.",
+    "income": 160,
+    "incomeSource": "финальная игровая награда",
+    "event": "Объедини все навыки и докажи, что умеешь управлять игровым бюджетом.",
+    "objectives": [
+      {
+        "id": "period-theory",
+        "type": "theory",
+        "blockIds": [
+          "purchases"
+        ],
+        "label": "Изучить теорию текущего периода"
+      },
+      {
+        "id": "period-tests",
+        "type": "tests",
+        "testIds": [
+          "purchases_theory",
+          "purchases_practice",
+          "purchases_hard"
+        ],
+        "label": "Сдать базовый, практический и сложный тесты периода"
+      },
+      {
+        "id": "plan",
+        "type": "plan",
+        "label": "Составить финальный бюджет"
+      },
+      {
+        "id": "essential",
+        "type": "purchase",
+        "category": "essential",
+        "count": 1,
+        "label": "Сделать обязательную покупку"
+      },
+      {
+        "id": "optional",
+        "type": "purchase",
+        "category": "optional",
+        "count": 2,
+        "label": "Сделать 2 желаемые покупки"
+      },
+      {
+        "id": "deposit",
+        "type": "deposit",
+        "amount": 35,
+        "label": "Отложить не меньше 35 бамбунчинок"
+      },
+      {
+        "id": "goal-owned",
+        "type": "goal_owned",
+        "count": 1,
+        "label": "Получить хотя бы 1 цель из копилки"
+      },
+      {
+        "id": "goal-used",
+        "type": "goal_used",
+        "count": 1,
+        "label": "Использовать полученную цель в этом периоде"
+      },
+      {
+        "id": "household",
+        "type": "purchase",
+        "category": "essential",
+        "itemId": "home_supplies",
+        "count": 1,
+        "label": "Купить набор для бытовых нужд"
+      },
+      {
+        "id": "utilities",
+        "type": "purchase",
+        "category": "essential",
+        "itemId": "utility_bill",
+        "count": 1,
+        "label": "Оплатить игровой счёт за свет и воду"
+      }
+    ]
+  }
+]

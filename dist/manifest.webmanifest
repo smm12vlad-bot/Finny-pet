@@ -1,0 +1,19 @@
+{
+  "name": "Финни — путь к мечте",
+  "short_name": "Финни",
+  "description": "Игра о бюджете, разумных покупках и накоплениях",
+  "lang": "ru",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e7f6ec",
+  "theme_color": "#2f8f62",
+  "icons": [
+    {
+      "src": "./assets/icons/finny-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

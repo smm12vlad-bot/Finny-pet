@@ -1,0 +1,57 @@
+[
+  {
+    "id": "picnic",
+    "title": "Большой пикник",
+    "emoji": "🧺",
+    "description": "Накопить на весёлый день с друзьями.",
+    "cost": 120,
+    "unlockPeriod": 1,
+    "actionLabel": "Устроить пикник",
+    "effectDescription": "Сытость +18, настроение +12",
+    "effect": { "satiety": 18, "mood": 12, "confidence": 0 }
+  },
+  {
+    "id": "skates",
+    "title": "Ролики для прогулок",
+    "emoji": "🛼",
+    "description": "Активная прогулка после продуманного накопления.",
+    "cost": 135,
+    "unlockPeriod": 2,
+    "actionLabel": "Покататься на роликах",
+    "effectDescription": "Настроение +14, уверенность +6",
+    "effect": { "satiety": 0, "mood": 14, "confidence": 6 }
+  },
+  {
+    "id": "backpack",
+    "title": "Рюкзак исследователя",
+    "emoji": "🎒",
+    "description": "Всё нужное для новых приключений.",
+    "cost": 150,
+    "unlockPeriod": 3,
+    "actionLabel": "Отправиться в поход",
+    "effectDescription": "Настроение +8, уверенность +15",
+    "effect": { "satiety": 0, "mood": 8, "confidence": 15 }
+  },
+  {
+    "id": "tent",
+    "title": "Палатка для похода",
+    "emoji": "⛺",
+    "description": "Большая покупка для настоящего приключения.",
+    "cost": 165,
+    "unlockPeriod": 4,
+    "actionLabel": "Устроить поход",
+    "effectDescription": "Сытость +6, настроение +12, уверенность +10",
+    "effect": { "satiety": 6, "mood": 12, "confidence": 10 }
+  },
+  {
+    "id": "scooter",
+    "title": "Самокат",
+    "emoji": "🛴",
+    "description": "Финальная большая цель для уверенного исследователя.",
+    "cost": 180,
+    "unlockPeriod": 5,
+    "actionLabel": "Покататься",
+    "effectDescription": "Настроение +18, уверенность +10",
+    "effect": { "satiety": 0, "mood": 18, "confidence": 10 }
+  }
+]

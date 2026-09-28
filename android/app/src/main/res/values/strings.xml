@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Питомец Финни</string>
+    <string name="title_activity_main">Питомец Финни</string>
+    <string name="package_name">ru.finny.pet</string>
+    <string name="custom_url_scheme">ru.finny.pet</string>
+</resources>
